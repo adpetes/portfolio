@@ -8,7 +8,7 @@ import SocialLinks from "./components/SocialLinks";
 
 function App() {
   return (
-    <div className="">
+    <div className="bg-gradient-to-b from-[#2f1a1a] to-black">
       <NavBar />
       <Home />
       <About />
