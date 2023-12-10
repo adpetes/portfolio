@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/web-portfolio/static/css/main.291b0c32.css",
-    "main.js": "/web-portfolio/static/js/main.dd9100d4.js",
-    "static/media/face.jpg": "/web-portfolio/static/media/face.09d905e4240a633dabb1.jpg",
-    "static/media/running.png": "/web-portfolio/static/media/running.4b52247cd6553145c315.png",
-    "static/media/puzzle.png": "/web-portfolio/static/media/puzzle.0d93881664d24b9fbd6d.png",
-    "static/media/nba.png": "/web-portfolio/static/media/nba.96cf7e372762bf505cb1.png",
-    "static/media/react.png": "/web-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
-    "static/media/sql.png": "/web-portfolio/static/media/sql.a869577749f8b10fd50c.png",
-    "static/media/destiny2.png": "/web-portfolio/static/media/destiny2.3b53f78c367cc552dbec.png",
-    "static/media/spring-boot.png": "/web-portfolio/static/media/spring-boot.94f201ce44348763e6a5.png",
-    "static/media/html.png": "/web-portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
-    "static/media/tailwind.png": "/web-portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
-    "static/media/css.png": "/web-portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
-    "static/media/javascript.png": "/web-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
-    "index.html": "/web-portfolio/index.html",
-    "main.291b0c32.css.map": "/web-portfolio/static/css/main.291b0c32.css.map",
-    "main.dd9100d4.js.map": "/web-portfolio/static/js/main.dd9100d4.js.map"
+    "main.css": "/portfolio/static/css/main.89306a94.css",
+    "main.js": "/portfolio/static/js/main.70d50f4c.js",
+    "static/media/face.jpg": "/portfolio/static/media/face.09d905e4240a633dabb1.jpg",
+    "static/media/running.png": "/portfolio/static/media/running.4b52247cd6553145c315.png",
+    "static/media/puzzle.png": "/portfolio/static/media/puzzle.0d93881664d24b9fbd6d.png",
+    "static/media/nba.png": "/portfolio/static/media/nba.96cf7e372762bf505cb1.png",
+    "static/media/react.png": "/portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/sql.png": "/portfolio/static/media/sql.a869577749f8b10fd50c.png",
+    "static/media/destiny2.png": "/portfolio/static/media/destiny2.3b53f78c367cc552dbec.png",
+    "static/media/spring-boot.png": "/portfolio/static/media/spring-boot.94f201ce44348763e6a5.png",
+    "static/media/html.png": "/portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/portfolio/index.html",
+    "main.89306a94.css.map": "/portfolio/static/css/main.89306a94.css.map",
+    "main.70d50f4c.js.map": "/portfolio/static/js/main.70d50f4c.js.map"
   },
   "entrypoints": [
-    "static/css/main.291b0c32.css",
-    "static/js/main.dd9100d4.js"
+    "static/css/main.89306a94.css",
+    "static/js/main.70d50f4c.js"
   ]
 }
