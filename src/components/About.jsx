@@ -14,8 +14,8 @@ const About = () => {
         </div>
         <p className="text-xl mt-10">
           Stemming from a love of sports from a young age, I thrive in team environments 
-          and have strong communication and leadership skills. I am highly self motivated, 
-          passionate about software development as much as anything. When I'm not working 
+          and have strong communication and leadership skills. I am highly self motivated
+          and passionate about software development as much as anything. When I'm not working 
           I love to play or watch sports with friends, go for a run, or play video games!
         </p>
 
