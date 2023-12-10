@@ -7,6 +7,7 @@ import react from "../assets/react.png";
 import sql from "../assets/sql.png";
 import spring from "../assets/spring-boot.png";
 import tailwind from "../assets/tailwind.png";
+import python from "../assets/python.png";
 
 const Experience = () => {
   const techs = [
@@ -51,6 +52,12 @@ const Experience = () => {
       src: sql,
       title: "SQL",
       style: "shadow-blue-800",
+    },
+    {
+      id: 8,
+      src: python,
+      title: "Python",
+      style: "shadow-yellow-600",
     },
   ];
 
